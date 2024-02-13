@@ -11,6 +11,8 @@ Usage:
 
 Compile the source code.
 Run the executable with a file containing P-machine instructions.
+gcc vm.c 
+./a.out myinput.txt 
 Example Instruction File:
 
 # Example
